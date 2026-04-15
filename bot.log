@@ -1,0 +1,5 @@
+2026-04-15 13:21:45,065 - ERROR - APIError(code=-2014): API-key format invalid.
+2026-04-15 17:05:30,446 - INFO - {'orderId': 123456, 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 65000, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET'}
+2026-04-15 17:08:21,600 - INFO - {'orderId': 123456, 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 65000, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET'}
+2026-04-15 17:09:16,432 - INFO - {'orderId': 123456, 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 65000, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET'}
+2026-04-15 17:09:23,884 - INFO - {'orderId': 123456, 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 30000.0, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT'}
